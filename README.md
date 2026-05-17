@@ -1,6 +1,11 @@
 # Hi 👋, I'm Shubham Gupta
-### Full Stack Developer from India 🇮🇳
+### Full Stack Developer..
 
+
+📩 Email Me: shubhamgpt0442@gmail.com – For Collaboration, Projects, or Just to Connect 😊.
+
+* 🌱 I’m currently learning: Advanced DSA & Cloud Technologies (AWS)
+*  I’m looking to collaborate on: Open-source MERN/Hackethon
 ---
 
 ### 🚀 Tech Stack
@@ -21,5 +26,3 @@
 
 ---
 
-### 🖼️ Profile Image
-<img src="https://your-image-link.com/photo.jpg" width="150" style="border-radius:50%">
